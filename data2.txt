@@ -1,0 +1,35 @@
+ICs are categorized by size according to the number of gates contained on each chip. There is no absolute
+rule, but an IC having fewer than 10 or 12 gates is usually referred to as a small-scale integration (SSI) IC.
+For instance, a 7404 has six inverters in a 14-pin DIP. ICs having more than 12 but fewer than 100 gates are
+called medium-scale integration (MS!) !Cs; encoders and decoders are examples of MSI ICs. If there are
+more than 100 gates but fewer than 1000, the IC is called a large-scale integration (LSI) JC. An IC having
+more than 1000 gates is referred to as a ve,y large-scale integration (VLSI) JC. A large complex system such
+as semiconductor memory or a microprocessor will be either LSI or VLSI.
+ICs are further categorized according to the type of transistors used. The two basic transistor types are
+bipolar and metal-oxide-semiconductor (MOS). Bipolar technology is faster but requires more power, and is
+generally preferred for SSI and MSI. MOS is slower, but requires much less power and also occupies a much
+smaller chip area for a given function. MOS is therefore preferred for LSI and is widely used in applications
+such as pocket calculators, wristwatches, hearing aids, and so on. For the moment, let's consider the overall
+characteristics of each digital IC family.
+
+
+OpenAI is an American artificial intelligence (AI) research laboratory consisting of the non-profit OpenAI, Inc.[4] and its for-profit subsidiary
+corporation OpenAI, L.P. [5] registered in Delaware. OpenAI conducts research on artificial intelligence with the declared intention of
+developing "safe and beneficial" artificial general intelligence, which it defines as "highly autonomous systems that outperform humans
+at most economically valuable work"
+OpenAI was founded in 2015 by Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, Jessica Livingston,
+John Schulman,Pamela Vagata, and Wojciech Zaremba, with Sam Altman and Elon Musk serving as the initial board members.[7][8][9] Microsoft
+ provided OpenAI LP with a $1 billion investment in 2019 and a $10 billion investment in 2023.
+
+
+Pichai Sundararajan (born June 10, 1972[3][4][5]), better known as Sundar Pichai (/ˈsʊndɑːr pɪˈtʃaɪ/), is an Indian-born American business
+executive.He is the chief executive officer (CEO) of Alphabet Inc. and its subsidiary Google.[8]Pichai began his career as a materials engineer.
+Following a short stint at the management consulting firm McKinsey & Co., Pichai joined Google in 2004,[9] where he led the product management
+and innovation efforts for a suite of Google's client software products, including Google Chrome and ChromeOS, as well as being largely
+responsible for Google Drive. In addition, he went on to oversee the development of other applications such as Gmail and Google Maps.
+In 2010, Pichai also announced the open-sourcing of the new video codec VP8 by Google and introduced the new video format, WebM.
+The Chromebook was released in 2012. In 2013, Pichai added Android to the list of Google products that he oversaw.Pichai was selected
+to become the next CEO of Google on August 10, 2015, after previously being appointed Product Chief by CEO Larry Page.
+ On October 24, 2015, he stepped into the new position at the completion of the formation of Alphabet Inc., the new holding company for
+the Google company family. He was appointed to the Alphabet Board of Directors in 2017.[10]
+Pichai was included in Time's annual list of the 100 most influential people in 2016[11] and 2020.
