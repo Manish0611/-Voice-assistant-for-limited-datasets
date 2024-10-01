@@ -47,7 +47,7 @@ def listen():
     return text
 
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "your api"
 
 
 file_path = "data2.txt"
